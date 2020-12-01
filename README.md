@@ -1,2 +1,2 @@
 # CCC-Solutions-
-Solutions for Waterloo's Canadian Computing Competition 
+My solutions for Waterloo's Canadian Computing Competition 
