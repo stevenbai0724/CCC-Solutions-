@@ -1,4 +1,3 @@
-//editorial solution, tried myself already :(
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
